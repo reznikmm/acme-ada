@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: acme-ada
+Upstream-Contact: Max Reznik <reznikmm@gmail.com>
+Source: https://github.com/reznikmm/acme-ada
+
+Files: README.md
+Copyright: 2020 Max Reznik <reznikmm@gmail.com>
+License: MIT
